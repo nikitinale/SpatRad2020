@@ -5,4 +5,4 @@ The analysis based on results of measuring gamma dose rate and measuring radionu
 
 [Initial route](https://github.com/nikitinale/SpatRad2020/blob/master/spat_rad_tot.ipynb)
 
-[Analysis of deadly contaminated part](https://github.com/nikitinale/SpatRad2020/blob/master/radiroute7.ipynb)
+[Analysis of deadly contaminated part of final route](https://github.com/nikitinale/SpatRad2020/blob/master/radiroute7.ipynb)
